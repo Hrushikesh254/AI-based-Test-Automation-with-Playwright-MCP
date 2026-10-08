@@ -1,0 +1,92 @@
+- generic [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - generic [ref=f3e3]:
+      - link:
+        - /url: admin.htm
+        - img [ref=f3e4] [cursor=pointer]
+      - link "ParaBank":
+        - /url: index.htm
+        - img "ParaBank" [ref=f3e5] [cursor=pointer]
+      - paragraph [ref=f3e6]: Experience the difference
+    - generic [ref=f3e7]:
+      - list [ref=f3e8]:
+        - listitem [ref=f3e9]: Solutions
+        - listitem [ref=f3e10]:
+          - link "About Us" [ref=f3e11] [cursor=pointer]:
+            - /url: about.htm
+        - listitem [ref=f3e12]:
+          - link "Services" [ref=f3e13] [cursor=pointer]:
+            - /url: services.htm
+        - listitem [ref=f3e14]:
+          - link "Products" [ref=f3e15] [cursor=pointer]:
+            - /url: http://www.parasoft.com/jsp/products.jsp
+        - listitem [ref=f3e16]:
+          - link "Locations" [ref=f3e17] [cursor=pointer]:
+            - /url: http://www.parasoft.com/jsp/pr/contacts.jsp
+        - listitem [ref=f3e18]:
+          - link "Admin Page" [ref=f3e19] [cursor=pointer]:
+            - /url: admin.htm
+      - list [ref=f3e20]:
+        - listitem [ref=f3e21]:
+          - link "home" [ref=f3e22] [cursor=pointer]:
+            - /url: index.htm
+        - listitem [ref=f3e23]:
+          - link "about" [ref=f3e24] [cursor=pointer]:
+            - /url: about.htm
+        - listitem [ref=f3e25]:
+          - link "contact" [ref=f3e26] [cursor=pointer]:
+            - /url: contact.htm
+    - generic [ref=f3e27]:
+      - generic [ref=f3e28]:
+        - heading "Customer Login" [level=2] [ref=f3e29]
+        - generic [ref=f3e30]:
+          - generic [ref=f3e31]:
+            - paragraph [ref=f3e32]: Username
+            - textbox [active] [ref=f3e34]
+            - paragraph [ref=f3e35]: Password
+            - textbox [ref=f3e37]
+            - button "Log In" [ref=f3e39] [cursor=pointer]
+          - paragraph [ref=f3e40]:
+            - link "Forgot login info?" [ref=f3e41] [cursor=pointer]:
+              - /url: lookup.htm
+          - paragraph [ref=f3e42]:
+            - link "Register" [ref=f3e43] [cursor=pointer]:
+              - /url: register.htm
+      - generic [ref=f3e44]:
+        - heading "Error!" [level=1] [ref=f3e45]
+        - paragraph [ref=f3e46]: An internal error has occurred and has been logged.
+  - generic [ref=f3e48]:
+    - list [ref=f3e49]:
+      - listitem [ref=f3e50]:
+        - link "Home" [ref=f3e51] [cursor=pointer]:
+          - /url: index.htm
+        - text: "|"
+      - listitem [ref=f3e52]:
+        - link "About Us" [ref=f3e53] [cursor=pointer]:
+          - /url: about.htm
+        - text: "|"
+      - listitem [ref=f3e54]:
+        - link "Services" [ref=f3e55] [cursor=pointer]:
+          - /url: services.htm
+        - text: "|"
+      - listitem [ref=f3e56]:
+        - link "Products" [ref=f3e57] [cursor=pointer]:
+          - /url: http://www.parasoft.com/jsp/products.jsp
+        - text: "|"
+      - listitem [ref=f3e58]:
+        - link "Locations" [ref=f3e59] [cursor=pointer]:
+          - /url: http://www.parasoft.com/jsp/pr/contacts.jsp
+        - text: "|"
+      - listitem [ref=f3e60]:
+        - link "Site Map" [ref=f3e61] [cursor=pointer]:
+          - /url: sitemap.htm
+        - text: "|"
+      - listitem [ref=f3e62]:
+        - link "Contact Us" [ref=f3e63] [cursor=pointer]:
+          - /url: contact.htm
+    - paragraph [ref=f3e64]: © Parasoft. All rights reserved.
+    - list [ref=f3e65]:
+      - listitem [ref=f3e66]: "Visit us at:"
+      - listitem [ref=f3e67]:
+        - link "www.parasoft.com" [ref=f3e68] [cursor=pointer]:
+          - /url: http://www.parasoft.com/
